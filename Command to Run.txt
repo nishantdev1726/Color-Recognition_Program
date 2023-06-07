@@ -1,0 +1,4 @@
+cd C:\Users\pccha\Downloads\Compressed\python-project-color-detection
+python color_detection.py -i colorpic.jpg
+
+python color_detection.py -i newpic.jpeg
